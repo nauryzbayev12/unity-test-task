@@ -107,3 +107,15 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# IDE settings (Rider / VS Code)
+.idea/
+.vscode/
+
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Test task description (not part of the project)
+/Core Developer.pdf
