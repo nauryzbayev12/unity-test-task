@@ -1,0 +1,8 @@
+{
+    "name": "MaterialAccumulation",
+    "rootNamespace": "MaterialAccumulation",
+    "references": [
+        "Unity.InputSystem"
+    ],
+    "autoReferenced": true
+}
